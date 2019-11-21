@@ -5,7 +5,7 @@
 <meta name="ProgId" content="FrontPage.Editor.Document">
 <title>Pic Programmer 12 Parts</title>
 
-<link rel="preload" href="https://adservice.google.co.id/adsid/integrator.js?domain=talkingelectronics.com" as="script"><script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script src="https://pagead2.googlesyndication.com/pagead/js/r20191114/r20190131/show_ads_impl.js" id="google_shimpl"></script><script type="text/javascript" src="https://adservice.google.co.id/adsid/integrator.js?domain=talkingelectronics.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=talkingelectronics.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=talkingelectronics.com"></script><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/r20191114/r20190131/show_ads_impl.js" as="script"></head>
+</head>
 <body>
 
   <table border="1" width="550" height="200" cellpadding="3" style="border-collapse: collapse" bordercolor="#111111" cellspacing="4" bgcolor="#EEF1AB">
