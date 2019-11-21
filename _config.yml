@@ -2,3 +2,5 @@ name: Cepot Sadewa, Horrible Nerd
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+permalink: /blog/:year/:month/:day/:title
