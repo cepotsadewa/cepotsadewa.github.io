@@ -137,7 +137,7 @@
 		prevent any mistakes. The 470R resistor is soldered to pins 4 and 8 of 
 		the female plug.</font></p><p align="center"> 
 		
-&nbsp;<img border="1" src="images/ConnectingLead.gif" width="315" height="360"></p><div align="center">
+&nbsp;<img border="1" src="../images/ConnectingLead.gif" width="315" height="360"></p><div align="center">
 		
 				<p align="left">
 		<b>
