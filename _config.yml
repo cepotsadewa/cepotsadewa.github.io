@@ -1,2 +1,4 @@
 name: Cepot Sadewa, Horrible Nerd
 markdown: kramdown
+
+theme: jekyll-theme-minimal
